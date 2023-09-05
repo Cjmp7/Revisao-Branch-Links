@@ -4,13 +4,22 @@
 }
 
 body {
-    background-color: rgba(99, 24, 28, 0.63);
+    background-color: rgb(99, 24, 28);
 }
 
 main {
-    background-color: darkgray;
+    background-color: rgb(87, 87, 87);
     width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.63);
+}
+h1 {
+    font-size: 2em;
+    color: rgb(46, 0, 10);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(46, 0, 10);
 }
